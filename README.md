@@ -9,4 +9,5 @@ Instructions:
 Requeriments:
 
 1º C++11 compiler
+
 2º SFML 2.3
