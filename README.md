@@ -6,11 +6,11 @@ I have to say it has a decent code quality even when it's pretty old. The only b
 # Compile
 Instructions:
 
-1º Clone the repository
-2º Execute make
-3º Just exec.
+1º Clone the repository  
+2º Execute make  
+3º Just exec.  
 
 Requeriments:
 
-1º C++11 compiler
-2º SFML 2.3
+1º C++11 compiler  
+2º SFML 2.3  
