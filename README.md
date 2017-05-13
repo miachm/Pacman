@@ -1,5 +1,5 @@
 # Pacman
-This is game remake of classic Pacman in C++. It was developed in the summer of 2014 as proof of concept.
+This is a remake of the classic Pacman in C++. It was developed in the summer of 2014 as proof of concept.
 
 # Compile
 Instructions:
