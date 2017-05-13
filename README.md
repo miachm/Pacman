@@ -1,8 +1,6 @@
 # Pacman
 This is game remake of classic Pacman in C++. It was developed in the summer of 2014 as proof of concept.
 
-I have to say it has good code quality even when it's pretty old. The only bad side: The entire code is in spanish
-
 # Compile
 Instructions:
 
