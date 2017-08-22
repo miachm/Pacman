@@ -18,7 +18,7 @@ Linux users can compile it in no time. Check the next section.
 Instructions:
 
 1º Clone the repository: git clone https://github.com/miachm/Pacman.git  
-2º Enter in the dictory: cd Pacman  
+2º Enter in the directory: cd Pacman  
 3º Install dependencies (SFML): sudo apt-get install sfml-dev  
 4º Execute make: make  
 5º Done!
