@@ -19,7 +19,7 @@ Instructions:
 
 1º Clone the repository: git clone https://github.com/miachm/Pacman.git  
 2º Enter in the dictory: cd Pacman  
-3º Install dependencies (SFML): sudo apt-get install sfml-dev
+3º Install dependencies (SFML): sudo apt-get install sfml-dev  
 4º Execute make: make  
 5º You are ready to go!
 
