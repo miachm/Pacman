@@ -7,7 +7,7 @@ This is a remake of the classic Pacman in C++. It was developed in the summer of
 
 ![Ghosts eaten](http://i.imgur.com/N7qP1Oz.png)
 
-# Can i test it?
+# Can i try it?
 
 Ofc! There is a compiled version for windows ready to go:
 https://github.com/miachm/Pacman/releases/download/Init/Pacman-Windows-x64.zip
@@ -21,7 +21,7 @@ Instructions:
 2º Enter in the dictory: cd Pacman  
 3º Install dependencies (SFML): sudo apt-get install sfml-dev  
 4º Execute make: make  
-5º You are ready to go!
+5º Done!
 
 Requeriments:
 
