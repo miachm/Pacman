@@ -1,14 +1,18 @@
 # Pacman
-This is a remake of the classic Pacman in C++. It was developed in the summer of 2014 as proof of concept.
+This is a remake of the classic Pacman in C++. It was developed in the summer of 2014 as proof of concept.  
+  
+Starting the game:
 
 ![Game](http://i.imgur.com/Qa5ttf7.png)  
-Starting the game.
+
+Modo rammpage! Take that ghosty  
 
 ![Rampage mode](http://i.imgur.com/JdzGIas.png)  
-Modo rammpage! Take that ghosty
+
+3 ghosts eaten, one more for aze!  
 
 ![Ghosts eaten](http://i.imgur.com/N7qP1Oz.png)  
-3 ghosts eaten, one more for aze!
+
 
 # Can i try it?
 
