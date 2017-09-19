@@ -16,7 +16,7 @@ Rampage mode! Now it's my turn
 ![Ghosts eaten](http://i.imgur.com/N7qP1Oz.png)  
 
 
-# Can i try it?
+# Can i play it?
 
 Ofc! There is a compiled version for windows ready to go:
 https://github.com/miachm/Pacman/releases/download/Init/Pacman-Windows-x64.zip
