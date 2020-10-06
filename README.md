@@ -3,12 +3,12 @@ This is a remake of the classic Pacman in C++. It was developed in the summer of
 
 ![Game](http://i.imgur.com/Qa5ttf7.png)
 
-# Can i play it?
+# Can I play it?
 
 Ofc! There is a compiled version for windows ready to go:
 https://github.com/miachm/Pacman/releases/download/Init/Pacman-Windows-x64.zip
 
-Linux users can compile it in no time. Check the next section.
+Linux users can compile it. Check the next section.
 
 # Compile
 Instructions:
